@@ -1,3 +1,4 @@
 Source file 1
 This is a new line of the code
 2
+string2
